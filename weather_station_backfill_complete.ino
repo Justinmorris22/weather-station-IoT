@@ -37,15 +37,15 @@
 #include <math.h>
 
 // ------------------- ENTER YOUR CREDENTIALS -------------------
-const char* WIFI_SSID     = "lifeline2";
-const char* WIFI_PASSWORD = "coolspoons193";
+const char* WIFI_SSID     = "Wifi ID";
+const char* WIFI_PASSWORD = "Wifi password";
 
 // From ThingSpeak: Devices > MQTT > (your device)
-const char* MQTT_CLIENT_ID = "IQUAGTwPMhMcBBINHSsABA4";
-const char* MQTT_USERNAME  = "IQUAGTwPMhMcBBINHSsABA4";
-const char* MQTT_PASSWORD  = "RRdJYIi8fNQGtf2b1oZKOp/4";
+const char* MQTT_CLIENT_ID = "ID";
+const char* MQTT_USERNAME  = "username";
+const char* MQTT_PASSWORD  = "password";
 
-const long CHANNEL_ID = 3500432;
+const long CHANNEL_ID = Channel ID;
 // --------------------------------------------------------------
 
 const char* MQTT_BROKER = "mqtt3.thingspeak.com";
